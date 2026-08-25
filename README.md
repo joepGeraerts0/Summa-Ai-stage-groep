@@ -15,5 +15,5 @@ Afspraken Ai team
 Joep: PS274036
 Mika: PS254250
 Gradus: PS222583
-dawien: PS271759
+dawid: PS271759
 Bas: PS261180
