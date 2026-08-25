@@ -11,3 +11,9 @@ Afspraken Ai team
 8.	We documenteren ons werk
 9.	Feedback is constructief
 10.	We leren van onze fouten
+
+Joep: PS274036
+Mika: PS254250
+Gradus: PS222583
+dawien: PS271759
+Bas: PS261180
